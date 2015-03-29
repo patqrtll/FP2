@@ -23,7 +23,7 @@ Patrick Quaratiello
 ### My Library: pict
 I messed around with modifications you can do with text, and then began to make some shapes and attempt to create something that resembles a face with a tophat. I used the superimpose and append to get the pieces to where they need to be and tried to add some colors to the shapes. I was trying to play around with a different library for a while (the game board one), but I couldn't really get anything that was worth showing so I decided to try something different. I may go back to that library and have another go at it though. There should be a link to a picture of the output below, a face with a tophat and some text placed around him.
 
-Face with tophat and some text around him.
+Face with tophat and some text around him [here] (https://github.com/patqrtll/FP2/blob/master/Images/Pict_FP2.png).
 
 
 
