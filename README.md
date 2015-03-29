@@ -1,7 +1,7 @@
 # Final Project Assignment 2: Explore One More! (FP2) 
 DUE March 30, 2015 Monday (2015-03-30)
+Patrick Quaratiello
 
-T
 ```
 #lang racket
 (require pict)
